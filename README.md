@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building my own **Social Meida webapp**
 
-All of my projects are available at [https://luqmanmatloob.vercel.app/](https://luqmanmatloob.vercel.app/){:target="_blank"}
+All of my projects are available at [https://luqmanmatloob.vercel.app/](https://luqmanmatloob.vercel.app/)
 
 - 📫 How to reach me **luqman8596@gmail.com**
 
