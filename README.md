@@ -5,7 +5,6 @@
 
 All of my projects are available at [https://luqmanmatloob.vercel.app/](https://luqmanmatloob.vercel.app/)
 
-- 📫 How to reach me **luqman8596@gmail.com**
 
 - ⚡ Fun fact **I am kinna good at History and interested in Philosophy**
 
