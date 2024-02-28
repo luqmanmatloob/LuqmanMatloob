@@ -11,7 +11,7 @@ But for me it's not just about code for me – it's about creating connections. 
 
 When I'm not coding, you'll find me exploring the depths of history or pondering the mysteries of philosophy. I believe in the importance of lifelong learning and continuous growth, both personally and professionally.
 
-Ready to embark on a journey of digital transformation? Let's connect, collaborate, and code something incredible together. Welcome to the future of web development – let's make it unforgettable.</h4>
+Ready to embark on a journey of digital transformation? Let's connect, collaborate, and code something incredible together.</h4>
 
 - 🔭 I’m currently working on building my own **Social Meida webapp**
 
