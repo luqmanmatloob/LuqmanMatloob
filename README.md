@@ -15,8 +15,6 @@ Ready to embark on a journey of digital transformation? Let's connect, collabora
 
 - 🔭 I’m currently working on building my own **Social Meida webapp**
 
-All of my projects are available at [https://luqmanmatloob.vercel.app/](https://luqmanmatloob.vercel.app/)
-
 
 - ⚡ Fun fact **I am kinna good at History and interested in Philosophy**
 
