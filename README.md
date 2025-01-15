@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luqman Matloob</h1>
 <h4 align="start">Welcome to my corner of the web! I'm Luqman Matloob, a dedicated software developer with a passion for crafting immersive digital experiences. With a blend of creativity and technical expertise, I transform ideas into stunning, user-friendly interfaces that captivate and delight.
 
-Over the past two years, I've honed my skills in HTML, CSS, and JavaScript, building a strong foundation in web development. Specializing in frameworks like React and Next.js, I thrive on creating dynamic and interactive applications that push the boundaries of user engagement.
+Over the past two years, I've honed my skills in HTML, CSS, and JavaScript, building a strong foundation in web development. Specializing in frameworks like React, Next.js, Express, NestJS, I thrive on creating dynamic and interactive applications that push the boundaries of user engagement.
 
 Furthermore, I'm proficient in utilizing powerful tools like Tailwind CSS and Bootstrap to streamline development and ensure sleek, responsive designs. My backend expertise includes working with databases such as MongoDB and SQL Server, enabling robust data management and integration.
 
@@ -13,10 +13,8 @@ When I'm not coding, you'll find me exploring the depths of history or pondering
 
 Ready to embark on a journey of digital transformation? Let's connect, collaborate, and code something incredible together.</h4>
 
-- 🔭 I’m currently working on building my own **Social Meida webapp**
 
 
-- ⚡ Fun fact **I am kinna good at History and interested in Philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
