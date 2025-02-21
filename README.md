@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luqman Matloob</h1>
 <h4 align="start">Welcome to my corner of the web! I'm Luqman Matloob, a dedicated software developer with a passion for crafting immersive digital experiences. With a blend of creativity and technical expertise, I transform ideas into stunning, user-friendly interfaces that captivate and delight.
 
-Over the past two years, I've honed my skills in HTML, CSS, and JavaScript, building a strong foundation in web development. Specializing in frameworks like React, Next.js, Express, NestJS, I thrive on creating dynamic and interactive applications that push the boundaries of user engagement.
+Hi, I'm Luqman, a full-stack JavaScript/TypeScript developer. I specialize in building custom, modern web applications. My favorite stack is NextJS, NestJS, React, Express, MongoDB, PostgreSQL and TailwindCSS. My expertise spans across front-end and back-end, databases, CI/CD and Blockchain, enabling me to provide comprehensive and efficient software solutions.
 
-Furthermore, I'm proficient in utilizing powerful tools like Tailwind CSS and Bootstrap to streamline development and ensure sleek, responsive designs. My backend expertise includes working with databases such as MongoDB and SQL Server, enabling robust data management and integration.
+Instead of exaggerations and diplomatic communication I believe in magic of honest communication and transparency which always makes things simple and easy for me and my clients. If you are looking for someone who believes in writing clean, maintainable code and leave no technical debt behind then you are on right profile,
 
 Before transitioning to web development, I honed my skills in automating tasks within Excel using VBA and Google Sheets using Google Apps Script, streamlining processes, and performing data cleaning and doing web scraping and research work.
-
-But for me it's not just about code for me – it's about creating connections. I believe in the power of effective communication and collaboration, working closely with clients to understand their vision and bring it to life. Whether it's building a sleek social media platform or refining existing processes with automation, I'm driven by a commitment to excellence and innovation.
 
 When I'm not coding, you'll find me exploring the depths of history or pondering the mysteries of philosophy. I believe in the importance of lifelong learning and continuous growth, both personally and professionally.
 
