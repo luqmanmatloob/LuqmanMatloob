@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luqman Matloob</h1>
-<h4 align="start">Welcome to my corner of the web! I'm Luqman Matloob, a dedicated software developer with a passion for crafting immersive digital experiences. With a blend of creativity and technical expertise, I transform ideas into stunning, user-friendly interfaces that captivate and delight.
+<h4 align="start">Welcome to my corner of the web! I'm Luqman Matloob, a dedicated software developer with a passion for crafting immersive digital experiences.
 
-Hi, I'm Luqman, a full-stack JavaScript/TypeScript developer. I specialize in building custom, modern web applications. My favorite stack is NextJS, NestJS, React, Express, MongoDB, PostgreSQL and TailwindCSS. My expertise spans across front-end and back-end, databases, CI/CD and Blockchain, enabling me to provide comprehensive and efficient software solutions.
+I'm full-stack JavaScript/TypeScript developer. I specialize in building custom, modern web applications. My favorite stack is NextJS, NestJS, React, Express, MongoDB, PostgreSQL and TailwindCSS. My expertise spans across front-end and back-end, databases, CI/CD and Blockchain, enabling me to provide comprehensive and efficient software solutions.
 
 Instead of exaggerations and diplomatic communication I believe in magic of honest communication and transparency which always makes things simple and easy for me and my clients. If you are looking for someone who believes in writing clean, maintainable code and leave no technical debt behind then you are on right profile,
 
