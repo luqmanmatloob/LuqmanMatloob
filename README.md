@@ -23,4 +23,3 @@ Ready to embark on a journey of digital transformation? Let's connect, collabora
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luqmanmatloob&show_icons=true&locale=en&layout=compact" alt="luqmanmatloob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanmatloob&" alt="luqmanmatloob" /></p>
